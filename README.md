@@ -1,3 +1,3 @@
 # Springboard_Projects
 
-All the projects from Springboard
+All the projects from Springboard Bootcamp
